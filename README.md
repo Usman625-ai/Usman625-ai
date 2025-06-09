@@ -40,16 +40,10 @@ Hi there! 👋 I'm a passionate Frontend Developer who specializes in creating d
 - Diving deeper into **Serverless architecture** and **GraphQL** for more efficient backend development.
 - Enhancing **UI/UX** design skills to create better user experiences.
 
-## 📈 My Projects
-
-Here are a few projects that showcase my work:
-
-Will add soon...
-   A fully functional e-commerce platform developed with Next.js, React, and Tailwind CSS.
-
-Feel free to explore my repositories for more projects!
 
 ## 🌐 Social & Contact
 
-- **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/in/usman-hussain-57731033b/])
+- **LinkedIn:** www.linkedin.com/in/
+usman-hussain-57731033b
+
 - **Email:** mrusmanhussain101@gmail.com
