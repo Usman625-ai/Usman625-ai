@@ -33,6 +33,6 @@ I love solving challenging problems and building scalable web applications. 🚀
 ---
 
 ## 📫 Connect With Me  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/
-usman-hussain-57731033b)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url-here)  
 - [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/your-github-username)  
+
