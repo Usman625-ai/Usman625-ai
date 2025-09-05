@@ -1,4 +1,4 @@
-# 💻 Usman’s GitHub
+# 💻 Hello it's me Usman 👋
 
 ## 👋 About Me  
 I am passionate about **Competitive Programming** and **Full-Stack Development**.  
