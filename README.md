@@ -31,16 +31,18 @@ _________________________________________________
 
 Icon Fact
 🎓 CS @ UBIT (Karachi University)
-
 ☕ Spring Boot + SQL — fluent, not just familiar
-
 🧠 300+ DSA problems — debugging? bring it on
-
 🛍️ Built Multivendor Ecommerce platform
-
-💳 FinTech (payments, txns, security)
-
+💳 Deep dive: FinTech (payments, txns, security)
 🤝 MLSA + GDGOC — campus tech events
+🏏 Cricket. Obviously.
+
+--
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&width=500&lines=%F0%9F%92%BB+Backend+Developer+%7C+FinTech+Enthusiast;%F0%9F%94%A7+Scalable+Systems+%7C+Clean+APIs;%F0%9F%92%AF+Internship+Ready" alt="Extra Animation" />
+</p>
 
 ---
 
@@ -61,14 +63,12 @@ Layer Technologies
 
 🪪 Codolio — Problem Solving Track
 
-<!-- Replace 'codolio-card.png' with the filename you uploaded to your repo -->
-
 <p align="center">
-  <a href="https://codolio.com/profile/ARG">
-    <img src="codolio-card.png" alt="Codolio Card" width="600" style="border-radius: 20px; box-shadow: 0 0 20px #00FFAA;" />
+  <a href="https://codolio.com/profile/ARG" target="_blank">
+    <img src="https://codolio.com/card/image/ARG" alt="Codolio Card" width="600" style="border-radius: 20px; box-shadow: 0 0 20px #00FFAA; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 30px #00FFAA';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00FFAA';" />
   </a>
   <br />
-  <sub><i>Click the card to view my full Codolio profile</i></sub>
+  <sub><i>✨ Hover over the card — it glows and scales ✨</i></sub>
 </p>
 
 ---
@@ -78,14 +78,22 @@ Layer Technologies
 Project Tech Highlights
 🛍️ Multivendor Ecommerce Spring Boot, MySQL, REST, JWT Full backend with payments, orders, auth, admin panels
 
+More projects coming soon — each with clean APIs and optimized queries
+
 ---
 
-📫 Let's Connect
+📫 Let's Connect — I'm Open to Internships
 
 <p align="center">
-  <a href="https://linkedin.com/in/usman-hussain-57731033b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mrusmanhussain101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Usman625-ai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/usman-hussain-57731033b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="mailto:mrusmanhussain101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
+  <a href="https://github.com/Usman625-ai">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
+  </a>
 </p>
 
 ---
