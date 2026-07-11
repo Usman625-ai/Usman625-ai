@@ -1,103 +1,74 @@
 <div align="center">
-  
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00FFAA&center=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Usman;Backend+%F0%9F%94%A7+Architect;Spring+Boot+%E2%98%95+Master;SQL+%F0%9F%97%84%EF%B8%8F+Wizard" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Usman%20Hussain&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%C2%B7%20Java%20%C2%B7%20MySQL&descAlignY=51&animation=twinkling" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Backend+Developer+(Student)+%40+UBIT;Java+%2B+Spring+Boot+%2B+REST+APIs;Building+Clean%2C+Scalable+Backends;SQL+%2B+DSA+(300%2B+Problems)+Solver)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/DSA-300%2B_Problems-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/FinTech-Payments-00D4FF?style=for-the-badge&logo=stripe&logoColor=white&labelColor=1a1a2e"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=%20A%20B%20O%20U%20T%20%20%20M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%"/>
 
----
+I'm a Computer Science student at **UBIT (University of Karachi)**, focused on backend development with **Java and Spring Boot**.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Usman%20Hussain&fontSize=50&fontAlignY=35&desc=Backend%20%7C%20Spring%20%7C%20SQL&descAlignY=55&animation=twinkling" width="100%"/>
-</p>
+My work centers on building REST APIs, designing clean layered backend architecture, and writing efficient, well-tested SQL-backed services — with 300+ DSA problems solved along the way to keep the fundamentals sharp.
 
----
+- 🛍️ Built a full **Multivendor Ecommerce Platform** — payments, orders, auth, and admin panels
+- 💳 Interested in **FinTech**: payments, transactions, and security
+- 🤝 Active in **MLSA** and **GDGOC** campus tech communities
+- ☕ *"I build the backend so the frontend can chill"*
 
-## 🌌 About Me
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=T%20E%20C%20H%20%20%20S%20T%20A%20C%20K&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%"/>
 
-```glsl
-_________________________________________________
-|                                               |
-|   ⚡ "I build the backend so the frontend     |
-|      can chill" 😌                            |
-|_______________________________________________|
-```
+<div align="center">
 
-Icon Fact
-🎓 CS @ UBIT (Karachi University)
-☕ Spring Boot + SQL — fluent, not just familiar
-🧠 300+ DSA problems — debugging? bring it on
-🛍️ Built Multivendor Ecommerce platform
-💳 Deep dive: FinTech (payments, txns, security)
-🤝 MLSA + GDGOC — campus tech events
-🏏 Cricket. Obviously.
+[![](https://skillicons.dev/icons?i=java,spring,mysql,postman,git,github,html,css,wordpress&theme=dark&perline=9)](https://skillicons.dev)
 
---
+| Layer | Technologies |
+|---|---|
+| ☕ **Backend** | Spring Boot, Java, REST APIs, Microservices |
+| 🗄️ **Database** | MySQL, SQL, Database Design |
+| 🛠️ **Tools** | Postman (200+ APIs tested), Git, GitHub |
+| 🎨 **Frontend | TypeScript • Next.js • React • Redux Toolkit • Tailwind CSS • Framer Motion • React Hook Form • Zod • shadcn/ui • Axios • HTML5 • CSS3
+| 🚀 **Practices** | DSA (300+ solved), Code Optimization, Unit Testing |
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&width=500&lines=%F0%9F%92%BB+Backend+Developer+%7C+FinTech+Enthusiast;%F0%9F%94%A7+Scalable+Systems+%7C+Clean+APIs;%F0%9F%92%AF+Internship+Ready" alt="Extra Animation" />
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=F%20E%20A%20T%20U%20R%20E%20D%20%20%20P%20R%20O%20J%20E%20C%20T&fontSize=22&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%"/>
 
-🛠️ 3D Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,java,mysql,postman,git,github,html,css,py,js&theme=dark&perline=5" />
-</p>
+### 🛍️ Multivendor Ecommerce Platform
+*A full backend for a multivendor ecommerce system — auth, orders, payments, and admin controls.*
 
-Layer Technologies
-☕ Backend Spring Boot, Java, REST APIs, Microservices
-🗄️ Database MySQL, SQL (fluent), Database Design
-🛠️ Tools Postman (200+ APIs), Git, GitHub
-🎨 Frontend/CMS HTML/CSS, WordPress
-🚀 Practices DSA (300+), Code Optimization, Unit Testing
+`Spring Boot` `MySQL` `REST APIs` `JWT Auth` `Admin Panels`
 
----
+More projects coming soon — each with clean APIs and optimized queries.
 
-🪪 Codolio — Problem Solving Track
+</div>
 
-<p align="center">
-  <a href="https://codolio.com/profile/ARG" target="_blank">
-    <img src="https://codolio.com/card/image/ARG" alt="Codolio Card" width="600" style="border-radius: 20px; box-shadow: 0 0 20px #00FFAA; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 30px #00FFAA';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 20px #00FFAA';" />
-  </a>
-  <br />
-  <sub><i>✨ Hover over the card — it glows and scales ✨</i></sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=G%20I%20T%20H%20U%20B%20%20%20A%20C%20T%20I%20V%20I%20T%20Y&fontSize=22&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%"/>
 
----
+<div align="center">
 
-🚀 Featured Project
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usman625-ai&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&bg_color=00000000)
 
-Project Tech Highlights
-🛍️ Multivendor Ecommerce Spring Boot, MySQL, REST, JWT Full backend with payments, orders, auth, admin panels
+![GitHub Streak](https://streak-stats.demolab.com?user=Usman625-ai&theme=transparent&hide_border=true&background=00000000&stroke=FFFFFF&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA)
 
-More projects coming soon — each with clean APIs and optimized queries
+[![Profile Views](https://komarev.com/ghpvc/?username=Usman625-ai&style=flat-square&color=grey&label=Profile+Views)](https://github.com/Usman625-ai)
 
----
+</div>
 
-📫 Let's Connect — I'm Open to Internships
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=L%20E%20T%27S%20%20%20C%20O%20N%20N%20E%20C%20T&fontSize=22&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/usman-hussain-57731033b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="mailto:mrusmanhussain101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-  <a href="https://github.com/Usman625-ai">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
-  </a>
-</p>
+<div align="center">
 
----
+📫 **Open to internships**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=0,2,2,5,30" width="100%"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-hussain-57731033b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrusmanhussain101@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usman625-ai)
+[![Codolio](https://img.shields.io/badge/Codolio-%2325252525.svg?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/ARG)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
