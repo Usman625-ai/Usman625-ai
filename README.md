@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Usman%20Hussain&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%C2%B7%20Java%20%C2%B7%20MySQL&descAlignY=51&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Usman%20Hussain&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=51&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Backend+Developer+(Student)+%40+UBIT;Java+%2B+Spring+Boot+%2B+REST+APIs;Building+Clean%2C+Scalable+Backends;SQL+%2B+DSA+(300%2B+Problems)+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+(Student)+%40+UBIT;Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript;Building+Production-Ready+Web+Platforms;SQL+%2B+DSA+(300%2B+Problems)+Solver)](https://git.io/typing-svg)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=%20A%20B%20O%20U%20T%20%20%20M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%"/>
 
-I'm a Computer Science student at **UBIT (University of Karachi)**, focused on backend development with **Java and Spring Boot**.
+I'm a Computer Science student at **UBIT (University of Karachi)**, focused on full-stack development — **Java / Spring Boot** on the backend, **React / TypeScript** on the frontend.
 
-My work centers on building REST APIs, designing clean layered backend architecture, and writing efficient, well-tested SQL-backed services — with 300+ DSA problems solved along the way to keep the fundamentals sharp.
+My work centers on building REST APIs, designing clean layered backend architecture, and shipping complete production-style platforms, not just seed-data demos — with 300+ DSA problems solved along the way to keep the fundamentals sharp.
 
-- 🛍️ Built a full **Multivendor Ecommerce Platform** — payments, orders, auth, and admin panels
+- 🛍️ Built and deployed **Argon** — a live multivendor ecommerce platform with real users, real orders, and role-based dashboards
 - 💳 Interested in **FinTech**: payments, transactions, and security
 - 🤝 Active in **MLSA** and **GDGOC** campus tech communities
 - ☕ *"I build the backend so the frontend can chill"*
@@ -21,15 +21,16 @@ My work centers on building REST APIs, designing clean layered backend architect
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=java,spring,mysql,postman,git,github,html,css,wordpress&theme=dark&perline=9)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,spring,react,typescript,vite,tailwind,mysql,postman,git,github,html,css&theme=dark&perline=12)](https://skillicons.dev)
 
 | Layer | Technologies |
 |---|---|
-| ☕ **Backend** | Spring Boot, Java, REST APIs, Microservices |
-| 🗄️ **Database** | MySQL, SQL, Database Design |
-| 🛠️ **Tools** | Postman (200+ APIs tested), Git, GitHub |
-| 🎨 **Frontend | TypeScript • Next.js • React • Redux Toolkit • Tailwind CSS • Framer Motion • React Hook Form • Zod • shadcn/ui • Axios • HTML5 • CSS3
-| 🚀 **Practices** | DSA (300+ solved), Code Optimization, Unit Testing |
+| ☕ **Backend** | Spring Boot, Java, REST APIs, Spring Security, JWT Auth |
+| 🎨 **Frontend** | React, TypeScript, Vite, Tailwind CSS, Redux Toolkit |
+| 🗄️ **Database** | MySQL, TiDB Serverless, Database Design |
+| ☁️ **Infra & Services** | Render (backend hosting), Vercel (frontend hosting), Cloudinary (media), Brevo (email) |
+| 🛠️ **Tools** | Postman (100+ APIs tested), Git, GitHub |
+| 🚀 **Practices** | DSA (300+ solved), Rate Limiting, Role-Based Access Control, Unit Testing |
 
 </div>
 
@@ -37,10 +38,19 @@ My work centers on building REST APIs, designing clean layered backend architect
 
 <div align="center">
 
-### 🛍️ Multivendor Ecommerce Platform
-*A full backend for a multivendor ecommerce system — auth, orders, payments, and admin controls.*
+### 🛍️ Argon — Multi-Vendor E-Commerce Platform
+*A fully deployed marketplace with four distinct roles — Guest, Customer, Seller, and Admin — each with their own dashboard and permissions. Live data, real users, real orders.*
 
-`Spring Boot` `MySQL` `REST APIs` `JWT Auth` `Admin Panels`
+`Spring Boot` `Java` `React` `TypeScript` `Tailwind CSS` `MySQL / TiDB` `JWT Auth` `Cloudinary` `Brevo`
+
+**🔗 Live:** [argon-sable.vercel.app](https://argon-sable.vercel.app/)
+
+**Highlights:**
+- Custom rate limiting built from scratch — no third-party service
+- 100+ backend APIs tested clean in Postman before any frontend was touched
+- Role-based dashboards for Guest, Customer, Seller, and Admin
+- JWT access + refresh token auth, BCrypt hashing, method-level security
+- In-app + email notifications (order updates, approvals, OTP verification)
 
 More projects coming soon — each with clean APIs and optimized queries.
 
