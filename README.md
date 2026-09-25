@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00FFAA&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(Student)+%40+UBIT;Java+%2B+Spring+Boot+%2B+Spring+Security;React+%2B+TypeScript+%2B+Redux+Toolkit;150%2B+APIs+Shipped+%C2%B7+300%2B+DSA+Solved+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FFAA&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+(Student)+%40+UBIT;Java+%2B+Spring+Boot+%2B+Spring+Security+%2B+JPA%2FHibernate;React+%2B+TypeScript+%2B+Redux+Toolkit+%2B+React+Query;150%2B+APIs+Shipped+%C2%B7+300%2B+DSA+Solved+%F0%9F%94%A5;Ask+me+about+the+architecture+%F0%9F%91%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,6 +13,14 @@
 <a href="https://github.com/Usman625-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://codolio.com/profile/ARG"><img src="https://img.shields.io/badge/Codolio-252525?style=for-the-badge&logo=codeforces&logoColor=00FFAA"/></a>
 <a href="https://argon-sable.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-Argon-00FFAA?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/150%2B-APIs%20Shipped-00FFAA?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/300%2B-DSA%20Solved-00FFAA?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/4-User%20Roles-00FFAA?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/1-Live%20Product-00FFAA?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/100%25-Custom%20Rate%20Limiter-00FFAA?style=for-the-badge&labelColor=0f0c29"/>
 
 </div>
 
@@ -34,6 +42,7 @@ status:      Open to Software Engineering internships 🟢
 - 🛍️ Built and **deployed Argon** — a live multivendor e-commerce platform with real users, real orders, and role-based dashboards
 - ⚙️ 150+ backend REST APIs designed, secured, and tested before a single frontend pixel was drawn
 - 🔐 Custom **Spring Security filter chain** — JWT validation, route-level access control, and BCrypt hashing wired in by hand
+- 🧱 Layered architecture done properly — Controller → Service → Repository, with DTOs, global exception handling, and validation at every boundary
 - 🧠 300+ DSA problems solved to keep fundamentals sharp
 - 💳 Exploring FinTech: payment flows, transaction integrity, and security
 
@@ -43,7 +52,7 @@ status:      Open to Software Engineering internships 🟢
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,typescript,vite,tailwind,redux,reactrouter,mysql,mssql,postman,git,github,html,css&theme=dark&perline=15" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,typescript,vite,tailwind,redux,reactrouter,mysql,mssql,postman,docker,git,github,html,css&theme=dark&perline=16" />
 
 </div>
 
@@ -55,8 +64,12 @@ status:      Open to Software Engineering internships 🟢
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security_Filters-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-A31F34?style=flat-square&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **🎨 Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -84,15 +97,87 @@ status:      Open to Software Engineering internships 🟢
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Brevo](https://img.shields.io/badge/Brevo-0B996E?style=flat-square&logo=maildotru&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**🛠️ Tools & Practices**
+**🧪 Testing & Docs**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-D22128?style=flat-square&logo=java&logoColor=white)
+
+**🛠️ Practices**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Role--Based_Access-4B0082?style=flat-square&logo=auth0&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## ☕ Spring Boot, In Depth
+
+*Not just `@RestController` and a prayer — here's what's actually under the hood on the backend:*
+
+| Concept | How it's used |
+|---|---|
+| 🧱 **Layered Architecture** | Strict Controller → Service → Repository separation, no business logic leaking into controllers |
+| 🔐 **Custom Security Filter Chain** | `OncePerRequestFilter` intercepts every request, validates JWTs, and sets the `SecurityContext` before it reaches a controller |
+| 🗃️ **Spring Data JPA + Hibernate** | Entity relationships (`@OneToMany`, `@ManyToOne`), lazy loading tuned to avoid N+1 queries |
+| 📦 **DTO Mapping** | Entities never leak past the service layer — dedicated request/response DTOs at every boundary |
+| ⚠️ **Global Exception Handling** | `@ControllerAdvice` + `@ExceptionHandler` for consistent, typed error responses across all 150+ endpoints |
+| ✅ **Bean Validation** | `@Valid`, custom validators, and constraint annotations reject bad input before it hits the service layer |
+| 📄 **Pagination & Sorting** | `Pageable`/`Sort` on every list endpoint instead of returning unbounded collections |
+| 🕒 **Scheduled Tasks** | `@Scheduled` jobs for cleanup and housekeeping (expired tokens, stale sessions) |
+| 🖼️ **Multipart File Handling** | Image/media uploads streamed to Cloudinary, not stored on disk |
+| ⚡ **Rate Limiting** | Hand-rolled token-bucket filter — no third-party library |
+| 🧪 **Testing** | JUnit5 + Mockito for service-layer unit tests, Postman collections for full API regression |
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart TD
+    A["Client — React + TypeScript (Vercel)"] -->|HTTPS| B["Spring Security Filter Chain"]
+    B --> C{"JWT Valid?"}
+    C -- "No" --> D["401 / 403 Response"]
+    C -- "Yes" --> E["Controller Layer"]
+    E --> F["Service Layer — Business Logic"]
+    F --> G["Repository Layer — Spring Data JPA"]
+    G --> H[("MySQL / TiDB Serverless")]
+    F --> I["Cloudinary — Media Storage"]
+    F --> J["Brevo — Email / OTP"]
+    E --> K["Global Exception Handler"]
+```
+
+## 🔐 Auth Flow — Custom JWT Filter
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant F as Spring Security Filter
+    participant A as AuthenticationManager
+    participant S as Service Layer
+    participant D as Database
+
+    U->>F: Request + Access Token
+    F->>F: Parse & validate JWT
+    alt Token valid
+        F->>A: Set SecurityContext
+        A->>S: Forward request
+        S->>D: Query / persist data
+        D-->>S: Result
+        S-->>U: 200 OK + Data
+    else Token expired
+        F-->>U: 401 Unauthorized
+        U->>F: Request + Refresh Token
+        F->>D: Validate refresh token
+        D-->>F: Valid
+        F-->>U: New Access Token
+    end
+```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -106,7 +191,7 @@ status:      Open to Software Engineering internships 🟢
 
 *A fully deployed marketplace with four distinct roles — Guest, Customer, Seller, and Admin — each with their own dashboard and permissions. Live data, real users, real orders.*
 
-`Spring Boot` `Spring Security` `Java` `React` `TypeScript` `Redux Toolkit` `Tailwind CSS` `MySQL / TiDB` `JWT Auth` `Cloudinary` `Brevo`
+`Spring Boot` `Spring Security` `Spring Data JPA` `Java` `React` `TypeScript` `Redux Toolkit` `Tailwind CSS` `MySQL / TiDB` `JWT Auth` `Cloudinary` `Brevo` `Docker`
 
 **🔗 [argon-sable.vercel.app](https://argon-sable.vercel.app/)**
 
@@ -118,6 +203,7 @@ status:      Open to Software Engineering internships 🟢
 | 🧪 150+ APIs tested | Verified clean in Postman before any frontend was touched |
 | 👥 Role-based dashboards | Guest, Customer, Seller, and Admin — each with tailored permissions |
 | 🔐 Secure auth | Custom Spring Security filter chain, JWT access + refresh tokens, BCrypt hashing, method-level security |
+| 🧱 Clean layered architecture | Controller → Service → Repository, DTOs at every boundary, global exception handling |
 | 📬 Real-time notifications | In-app + email for order updates, approvals, OTP verification |
 | 🐞 Production-hardened | Fixed JSON validation, scroll bugs, navbar/layout issues, missing routes |
 | 📊 Live platform stats | Real data on the homepage, not hardcoded placeholders |
@@ -140,10 +226,6 @@ status:      Open to Software Engineering internships 🟢
 <img src="https://github-readme-trophy.vercel.app/?username=Usman625-ai&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="95%"/>
 
 </div>
-
-<!--START_SECTION:waka-->
-<!-- Optional: connect WakaTime for coding-time stats, then this section auto-updates -->
-<!--END_SECTION:waka-->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
