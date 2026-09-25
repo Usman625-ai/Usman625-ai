@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00FFAA&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(Student)+%40+UBIT;Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript;Shipping+Production-Grade+Web+Platforms;300%2B+DSA+Problems+Solved+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00FFAA&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(Student)+%40+UBIT;Java+%2B+Spring+Boot+%2B+Spring+Security;React+%2B+TypeScript+%2B+Redux+Toolkit;150%2B+APIs+Shipped+%C2%B7+300%2B+DSA+Solved+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,7 +32,8 @@ status:      Open to Software Engineering internships 🟢
 ```
 
 - 🛍️ Built and **deployed Argon** — a live multivendor e-commerce platform with real users, real orders, and role-based dashboards
-- ⚙️ 100+ backend REST APIs designed, secured, and tested before a single frontend pixel was drawn
+- ⚙️ 150+ backend REST APIs designed, secured, and tested before a single frontend pixel was drawn
+- 🔐 Custom **Spring Security filter chain** — JWT validation, route-level access control, and BCrypt hashing wired in by hand
 - 🧠 300+ DSA problems solved to keep fundamentals sharp
 - 💳 Exploring FinTech: payment flows, transaction integrity, and security
 
@@ -42,7 +43,7 @@ status:      Open to Software Engineering internships 🟢
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,typescript,vite,tailwind,redux,mysql,postman,git,github,html,css&theme=dark&perline=13" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,typescript,vite,tailwind,redux,reactrouter,mysql,mssql,postman,git,github,html,css&theme=dark&perline=15" />
 
 </div>
 
@@ -53,6 +54,7 @@ status:      Open to Software Engineering internships 🟢
 **☕ Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security_Filters-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -62,6 +64,12 @@ status:      Open to Software Engineering internships 🟢
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -69,6 +77,7 @@ status:      Open to Software Engineering internships 🟢
 **🗄️ Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TiDB](https://img.shields.io/badge/TiDB_Serverless-EB0029?style=flat-square&logo=tidb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server_(SSMS)-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **☁️ Infra & Services**
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -97,7 +106,7 @@ status:      Open to Software Engineering internships 🟢
 
 *A fully deployed marketplace with four distinct roles — Guest, Customer, Seller, and Admin — each with their own dashboard and permissions. Live data, real users, real orders.*
 
-`Spring Boot` `Java` `React` `TypeScript` `Tailwind CSS` `MySQL / TiDB` `JWT Auth` `Cloudinary` `Brevo`
+`Spring Boot` `Spring Security` `Java` `React` `TypeScript` `Redux Toolkit` `Tailwind CSS` `MySQL / TiDB` `JWT Auth` `Cloudinary` `Brevo`
 
 **🔗 [argon-sable.vercel.app](https://argon-sable.vercel.app/)**
 
@@ -106,9 +115,9 @@ status:      Open to Software Engineering internships 🟢
 | Highlight | Detail |
 |---|---|
 | 🛡️ Custom rate limiting | Built from scratch — no third-party service |
-| 🧪 100+ APIs tested | Verified clean in Postman before any frontend was touched |
+| 🧪 150+ APIs tested | Verified clean in Postman before any frontend was touched |
 | 👥 Role-based dashboards | Guest, Customer, Seller, and Admin — each with tailored permissions |
-| 🔐 Secure auth | JWT access + refresh tokens, BCrypt hashing, method-level security |
+| 🔐 Secure auth | Custom Spring Security filter chain, JWT access + refresh tokens, BCrypt hashing, method-level security |
 | 📬 Real-time notifications | In-app + email for order updates, approvals, OTP verification |
 | 🐞 Production-hardened | Fixed JSON validation, scroll bugs, navbar/layout issues, missing routes |
 | 📊 Live platform stats | Real data on the homepage, not hardcoded placeholders |
